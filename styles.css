@@ -8,10 +8,10 @@ body {
 }
 
 img{
-    width:100%;
-    max-width:500px;
-    margin:auto;
-    display:block;
+    width: 100%;
+    display: block;
+    margin: auto;
+    /* margin: Top Right Bottom Left */
 }
 
 h1{
@@ -26,6 +26,7 @@ ol{
 .list-of-songs li{
     width: 70%;
     margin:auto;
+    display: block;
     color:teal;
     line-height: 1.8em;
 }
