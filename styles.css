@@ -1,0 +1,42 @@
+body {
+  font-family: arial;
+  background-color: pink;
+  padding:0;
+  margin:0;
+  font-family: 'Abril Fatface', sans-serif;
+  color:white;
+}
+
+img{
+    width:100%;
+    max-width:500px;
+    margin:auto;
+    display:block;
+}
+
+h1{
+  text-align: center;
+  margin:20px;
+
+  }
+ol{
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+.list-of-songs li{
+    width: 70%;
+    margin:auto;
+    color:teal;
+    line-height: 1.8em;
+}
+a{
+    color:teal;
+}
+hr{
+    border: 1px solid #A198AD;
+    width:90%;
+}
+div{
+    width:90%;
+    margin:auto;
+}
